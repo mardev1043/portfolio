@@ -1,0 +1,14 @@
+body{
+	font-family: 'Oxygen', sans-serif;
+}
+#navbarNav li{
+	text-align: left;	
+}
+.words{
+	padding-left: 20px;
+	text-align: left;
+}
+.subheader{
+	text-align: right;
+}
+
